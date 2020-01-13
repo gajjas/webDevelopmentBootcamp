@@ -1,0 +1,14 @@
+{
+  "name": "expressroutingassignment",
+  "version": "1.0.0",
+  "description": "Routing Exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Sumanth Gajjala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
